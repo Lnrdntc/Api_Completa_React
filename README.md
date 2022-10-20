@@ -18,8 +18,6 @@ Após isso fará os passos para carregar o backend.
 
 ## Backend
 
-C# - .NET Core 5.0
-
 Acessar o diretório:
 
 cd NewCon\backend\backend
@@ -35,7 +33,7 @@ O projeto deverá iniciar na porta padrão 5001.
 
 Foi utilizado React
 
-Antes de iniciar o projeto, você precisará instalar as dependências, acesse a página através do terminal:
+Antes de iniciar o projeto, você precisará instalar as dependências, acesse a pasta através do terminal:
 
 → cd NewCon\frontend\
 
